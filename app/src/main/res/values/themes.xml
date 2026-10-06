@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ChatApp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/chat_azul</item>
+        <item name="colorSecondary">@color/chat_azul_claro</item>
+    </style>
+</resources>
